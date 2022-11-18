@@ -1,0 +1,2 @@
+INICIAR API
+python -m uvicorn main:app --reload
